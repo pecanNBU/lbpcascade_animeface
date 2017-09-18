@@ -1,4 +1,4 @@
-# lbpcascade_animeface
+# lbpcascade_animeface（动漫人脸检测）
 
 The face detector for anime/manga using OpenCV.
 
